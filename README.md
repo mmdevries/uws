@@ -1,4 +1,5 @@
-**Important**
+**Important:**
+
 Since it's possible in engine.io (3.4.2 or higher) to specify the ws module via the options this package is renamed to [eiows](https://www.npmjs.com/package/eiows).
 
 
