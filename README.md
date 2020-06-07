@@ -1,3 +1,7 @@
+**Important**
+Since it's possible in engine.io (3.4.2 or higher) to specify the ws module via the options this package is renamed to [eiows](https://www.npmjs.com/package/eiows).
+
+
 uws is a replacement module for ws which allows, but doesn't guarantee, significant performance and memory-usage improvements. This module is specifically only compatible with Node.js.
 This package is mainly meant for projects which depend on the performance of the “original uws package” in combination with Socket.IO and Express and it should work on Node 8, 10, 12, 13 and 14.
 
